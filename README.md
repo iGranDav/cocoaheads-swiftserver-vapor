@@ -3,7 +3,7 @@ Demo project for Swift Server using Vapor talk
 
 During [CocoaHeads Nantes](https://www.meetup.com/fr-FR/CocoaHeads-Nantes) [@iAdvize](https://twitter.com/iadvize)
 
-The full video of the presentation is coming
+The full video of the presentation can be viewed [here](https://youtu.be/dsyWzAFvUdA)
 
 ## How to
 
